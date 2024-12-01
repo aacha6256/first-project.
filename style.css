@@ -1,0 +1,40 @@
+div{
+background-color : white;
+}
+
+body{
+background-color : #1f2039;
+font-size:1em;
+font-family:  "Manrope", sans-serif;
+}
+
+a {
+color : #242424;
+text-decoration:none;
+}
+
+h2{
+color:#f9f8ff;
+}
+
+p,li{
+color: #f9f8ff;
+font-size:1.1em;
+}
+
+.u {
+background:linear-gradient(#8e86b5,#acaeed);
+color: white;
+font-family:  "Manrope", sans-serif;
+}
+
+h1{
+font-size: 3.5e;
+color:#a5b4fc;
+font-family: 'montserrat' , sans-serif;
+}
+
+em{
+color:#a5b4fc;
+font-style:normal;
+}
